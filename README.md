@@ -2,37 +2,67 @@
 
 A simple and responsive calculator web app built with HTML, CSS, and JavaScript. It performs basic arithmetic operations (addition, subtraction, multiplication, and division) with a clean and minimal UI.
 
+
+
 🚀 Features
 
-Perform basic math operations ( + , − , × , ÷ )
+1. Perform basic math operations ( + , − , × , ÷ )
 
-Clear and reset functionality
+2. Clear and reset functionality
 
-Responsive design (works on desktop & mobile)
+3. Responsive design (works on desktop & mobile)
 
-Beginner-friendly project for practicing JavaScript DOM manipulation
+4. Beginner-friendly project for practicing JavaScript DOM manipulation
+
+
 
 🛠️ Built With
 
-HTML5 – Structure
+1. HTML5 – Structure
 
-CSS3 – Styling & Layout
+2. CSS3 – Styling & Layout
 
-JavaScript (ES6) – Functionality
+3. JavaScript (ES6) – Functionality
+
+
+
+🎯 How to Use  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/calculator.git
+2. Open index.html in your browser to start using the calculator.
+
+
+
+git add README.md 🌐 Live Demo  
+👉 Click here to view the Calculator(https://tjsunimi.github.io/Calculator-Project/)
+
+
+
+
+
+
 
 📚 Lessons Learned
 
-Practiced DOM manipulation in JavaScript
+1. Practiced DOM manipulation in JavaScript
 
-Improved CSS layout skills
+2. Improved CSS layout skills
 
-Learned how to deploy projects with GitHub Pages
+3. Learned how to deploy projects with GitHub Pages
+
+
+
 
 Future Improvements
 
-Add advanced operations (square root, percentage, etc.)
+1. Add advanced operations (square root, percentage, etc.)
 
-Improve overall UI/UX
+2. Improve overall UI/UX
+
+
+
 
 👩‍💻 Author
 
